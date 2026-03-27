@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Minesmpfun.aternos.me",
-    "port": 41442,
+    "ip": "Pluksmpfun.aternos.me",
+    "port": 51425,
     "version": "",
     "try-creative": false
   },
